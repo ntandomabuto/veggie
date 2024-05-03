@@ -1,0 +1,25 @@
+/* .col{
+    text-align: left;
+} */
+.celery{
+    background-color: blue;
+    color: white;
+
+}
+table{
+    color: blue;
+    width: 200px;
+}
+.search{
+    background-color: blue;
+    color: white;
+    border: none
+}
+.row{
+    text-align: left;
+    justify-content:left;
+}
+
+.table2{
+    color: black;
+}
